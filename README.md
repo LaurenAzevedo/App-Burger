@@ -101,8 +101,10 @@ Na tela de cardápio, o usuário visualiza as opções de bebidas para o consumo
 
 <img src="https://github.com/user-attachments/assets/e00a13ea-9e15-4098-a7a2-930898016dd4" width="260" height="500"/>
 
+# 🧰 APK do APP 
 
- 
+
+
 # 📄 Licença
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LaurenAzevedo/App-Burger/blob/main/LICENSE)
