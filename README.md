@@ -1,10 +1,10 @@
-# **Aplicativo de hamburgeria**
+# **Aplicativo de hamburgueria**
 
 > Um aplicativo Android simples, utilizando SQLite que permite gerenciar o cadastro de usuários e exibir um catálogo de produtos de uma hamburgueria.
 
 ## 📱 Descrição
 
-O **Aplicativo de hamburgeria** permite ao usuário realizar cadastro no banco de dados e escolher a melhor opção de lanche em apenas um clique, ultilizando botões interativos. 
+O **Aplicativo de hamburgueria** permite ao usuário realizar cadastro no banco de dados e escolher a melhor opção de lanche em apenas um clique, ultilizando botões interativos. 
 
 ## 🔧 Funcionalidades
 
