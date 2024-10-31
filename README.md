@@ -103,7 +103,7 @@ Na tela de cardápio, o usuário visualiza as opções de bebidas para o consumo
 
 # 🧰 APK do APP 
 
-<a href="./burger.apk"> Download APK </a> 
+<a href="(https://github.com/LaurenAzevedo/App-Burger/Burger.apk)"> Download APK </a> 
 
 # 📄 Licença
 
